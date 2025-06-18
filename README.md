@@ -48,3 +48,8 @@ To Link
 ```
 aarch64-linux-gnu-ld test.o -o test
 ```
+
+6. Run the File
+```
+qemu-aarch64 ./test ; echo $?
+```
