@@ -1,0 +1,11 @@
+<estadisticas>
+    <media>valor</media>
+    <mediana>valor</mediana>
+    <moda>valor</moda>
+    <minimo>valor</minimo>
+    <maximo>valor</maximo>
+    <desviacion>valor</desviacion>
+    <varianza>valor</varianza>
+    <media_movil>valor</media_movil>
+    <suavizado>valor</suavizado>
+</estadisticas>
